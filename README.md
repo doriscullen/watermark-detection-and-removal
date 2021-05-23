@@ -10,7 +10,7 @@
 
 本项目为《Towards Photo-Realistic Visible Watermark Removal with Conditional Generative Adversarial Networks》一文的非官方复现。
 
-**本项目仅供学术研究参考，禁止用于任何商业用途。**
+**本项目仅供学术研究参考，禁止用于任何商业用途！**
 
 ## 水印研究数据集
 
