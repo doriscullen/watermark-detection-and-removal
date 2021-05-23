@@ -1,12 +1,11 @@
 # watermark-detection-and-removal
-<<<<<<< HEAD
-Unofficial implementation of 《Towards Photo-Realistic VisibleWatermark Removal with Conditional Generative Adversarial Networks》
-=======
-Unofficial implementation of 《Towards Photo-Realistic Visible Watermark Removal with Conditional Generative Adversarial Networks》
 
-Source: 浙江大学SRTP项目——水印检测与去除
-
-Contributors: Xiaodan Xu, Yining Mao, Hanjing Zhou
+> Unofficial implementation of 《Towards Photo-Realistic Visible Watermark Removal with Conditional Generative Adversarial Networks》
+>
+> Source: 浙江大学SRTP项目——水印检测与去除
+>
+> Contributors: Xiaodan Xu, Yining Mao, Hanjing Zhou
+>
 
 ## 说明
 
@@ -44,8 +43,7 @@ Contributors: Xiaodan Xu, Yining Mao, Hanjing Zhou
 
 **请先下载VGG16模型的预训练参数“vgg16-397923af.pth”，并放在项目的根目录下**
 
-【链接：https://pan.baidu.com/s/1N8A3BAEQ6j0K091v_5obpg 
-提取码：vgg1 】
+【链接：https://pan.baidu.com/s/1N8A3BAEQ6j0K091v_5obpg 	提取码：vgg1 】
 
 请将训练集、测试集图片放置dataset文件夹下对应的文件夹中。注意，如果您想直接使用我们的程序进行训练，请参照我们的图片命名方式，否则，您需要修改程序中的对应部分，以加载您自己的数据集。请将N改为正确的图片数。
 
@@ -66,5 +64,3 @@ Contributors: Xiaodan Xu, Yining Mao, Hanjing Zhou
 使用方法：python test.py
 
 测试结果保存位置：test_result
-
->>>>>>> 237f2236a57233c383d3823155ec6d55ba8fbead
