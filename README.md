@@ -80,8 +80,23 @@ automatic-watermark-detection项目是对paper "On The Effectiveness Of Visible 
 
 请将N改为正确的图片数。
 
-"model_parameters"文件夹下存放了我们训练330轮的模型的参数，您可以尝试加载它并进行测试。
+"model_parameters"文件夹下存放了我们用12000张图训练330轮的模型的参数，您可以尝试加载它并进行测试。
 
 使用方法：python test.py
 
 测试结果保存位置：test_result
+
+
+
+## 展望
+
+**我们的模型还有待改善，您可以思考以下方面**
+
+- 扩大训练集（12000->3w+张；给图片加上不同的文字或图片水印）
+
+- 学习率衰减（在训练初期学习率大一些，使得网络收敛迅速，在训练后期学习率小一些，使得网络更好的收敛到最优解）
+
+- 调整L1 loss、GAN loss、perceptual loss的权重
+
+- 调整其他参数……
+
