@@ -12,6 +12,20 @@
 
 **本项目仅供学术研究参考，禁止用于任何商业用途！**
 
+
+
+## 我们的其他去水印工作
+
+我们的另一个项目“半自动水印检测与去除”：
+
+[semi-automatic-watermark-removal](https://github.com/doriscullen/semi-automatic-watermark-removal)
+
+注：此项目基于GitHub项目[automatic-watermark-detection](https://github.com/rohitrango/automatic-watermark-detection)修改，在此对项目作者表示感谢！
+
+automatic-watermark-detection项目是对paper "On The Effectiveness Of Visible Watermarks"的非官方复现。我们在项目作者工作的基础上，完成了随机位置水印检测与去除、满屏水印检测与去除的工作，欢迎感兴趣者参考与批评指正。
+
+
+
 ## 水印研究数据集
 
 水印研究数据集包含15000张带文字水印图和1000张带满屏水印图
@@ -20,7 +34,9 @@
 
 【链接：https://pan.baidu.com/s/14Ap00RcrfhlEsO3WBB62_Q	提取码：syyj】
 
-## 使用说明
+
+
+## 本项目使用说明
 
 ### 1 加水印程序
 
