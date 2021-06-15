@@ -9,7 +9,8 @@
 ## 说明
 
 本项目为《Towards Photo-Realistic Visible Watermark Removal with Conditional Generative Adversarial Networks》一文的非官方复现。
-注意：代码还不完善，生成器效果还不太好，需要继续调整超参（学习率、各项loss权重等等），代码仅供参考哈
+
+**注意：代码还不完善，生成器效果还不太好，需要继续调整超参（学习率、各项loss权重等等），代码仅供参考哈**
 
 **本项目仅供学术研究参考，禁止用于任何商业用途！**
 
