@@ -10,10 +10,7 @@
 
 本项目为《Towards Photo-Realistic Visible Watermark Removal with Conditional Generative Adversarial Networks》一文的非官方复现。
 
-**注意：代码并不完善，生成器效果还不太好，需要继续调整超参（学习率、各项loss权重等等），可能还存在其他错误，欢迎批评指正！**
-
-**本项目仅供学术研究参考，禁止用于任何商业用途！**
-
+**注意：代码并不完善，生成器效果还不太好，需要继续调整超参（学习率、各项loss权重等等），可能还存在其他错误，仅供参考，欢迎批评指正！**
 
 
 ## 我们的其他去水印工作
